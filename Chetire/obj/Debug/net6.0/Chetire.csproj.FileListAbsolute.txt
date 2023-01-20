@@ -1,0 +1,15 @@
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.csproj.AssemblyReference.cache
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.AssemblyInfoInputs.cache
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.AssemblyInfo.cs
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Chetire\bin\Debug\net6.0\Chetire.exe
+D:\GT\DZ1\Chetire\bin\Debug\net6.0\Chetire.deps.json
+D:\GT\DZ1\Chetire\bin\Debug\net6.0\Chetire.runtimeconfig.json
+D:\GT\DZ1\Chetire\bin\Debug\net6.0\Chetire.dll
+D:\GT\DZ1\Chetire\bin\Debug\net6.0\Chetire.pdb
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.dll
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\refint\Chetire.dll
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.pdb
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\Chetire.genruntimeconfig.cache
+D:\GT\DZ1\Chetire\obj\Debug\net6.0\ref\Chetire.dll
