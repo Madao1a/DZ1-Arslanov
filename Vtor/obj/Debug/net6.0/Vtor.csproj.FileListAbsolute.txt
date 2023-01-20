@@ -1,0 +1,15 @@
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.csproj.AssemblyReference.cache
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.AssemblyInfoInputs.cache
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.AssemblyInfo.cs
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Vtor\bin\Debug\net6.0\Vtor.exe
+D:\GT\DZ1\Vtor\bin\Debug\net6.0\Vtor.deps.json
+D:\GT\DZ1\Vtor\bin\Debug\net6.0\Vtor.runtimeconfig.json
+D:\GT\DZ1\Vtor\bin\Debug\net6.0\Vtor.dll
+D:\GT\DZ1\Vtor\bin\Debug\net6.0\Vtor.pdb
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.dll
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\refint\Vtor.dll
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.pdb
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\Vtor.genruntimeconfig.cache
+D:\GT\DZ1\Vtor\obj\Debug\net6.0\ref\Vtor.dll
