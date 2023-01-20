@@ -1,0 +1,15 @@
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.csproj.AssemblyReference.cache
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.AssemblyInfoInputs.cache
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.AssemblyInfo.cs
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Perv\bin\Debug\net6.0\Perv.exe
+D:\GT\DZ1\Perv\bin\Debug\net6.0\Perv.deps.json
+D:\GT\DZ1\Perv\bin\Debug\net6.0\Perv.runtimeconfig.json
+D:\GT\DZ1\Perv\bin\Debug\net6.0\Perv.dll
+D:\GT\DZ1\Perv\bin\Debug\net6.0\Perv.pdb
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.dll
+D:\GT\DZ1\Perv\obj\Debug\net6.0\refint\Perv.dll
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.pdb
+D:\GT\DZ1\Perv\obj\Debug\net6.0\Perv.genruntimeconfig.cache
+D:\GT\DZ1\Perv\obj\Debug\net6.0\ref\Perv.dll
