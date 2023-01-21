@@ -1,0 +1,15 @@
+D:\GT\DZ1\Vosem\bin\Debug\net6.0\Vosem.exe
+D:\GT\DZ1\Vosem\bin\Debug\net6.0\Vosem.deps.json
+D:\GT\DZ1\Vosem\bin\Debug\net6.0\Vosem.runtimeconfig.json
+D:\GT\DZ1\Vosem\bin\Debug\net6.0\Vosem.dll
+D:\GT\DZ1\Vosem\bin\Debug\net6.0\Vosem.pdb
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.csproj.AssemblyReference.cache
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.AssemblyInfoInputs.cache
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.AssemblyInfo.cs
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.dll
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\refint\Vosem.dll
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.pdb
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\Vosem.genruntimeconfig.cache
+D:\GT\DZ1\Vosem\obj\Debug\net6.0\ref\Vosem.dll
