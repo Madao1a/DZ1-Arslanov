@@ -1,0 +1,15 @@
+D:\GT\DZ1\Shest\bin\Debug\net6.0\Shest.exe
+D:\GT\DZ1\Shest\bin\Debug\net6.0\Shest.deps.json
+D:\GT\DZ1\Shest\bin\Debug\net6.0\Shest.runtimeconfig.json
+D:\GT\DZ1\Shest\bin\Debug\net6.0\Shest.dll
+D:\GT\DZ1\Shest\bin\Debug\net6.0\Shest.pdb
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.csproj.AssemblyReference.cache
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.AssemblyInfoInputs.cache
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.AssemblyInfo.cs
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.dll
+D:\GT\DZ1\Shest\obj\Debug\net6.0\refint\Shest.dll
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.pdb
+D:\GT\DZ1\Shest\obj\Debug\net6.0\Shest.genruntimeconfig.cache
+D:\GT\DZ1\Shest\obj\Debug\net6.0\ref\Shest.dll
