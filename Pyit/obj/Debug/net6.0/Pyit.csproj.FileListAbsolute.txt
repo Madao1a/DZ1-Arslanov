@@ -1,0 +1,15 @@
+D:\GT\DZ1\Pyit\bin\Debug\net6.0\Pyit.exe
+D:\GT\DZ1\Pyit\bin\Debug\net6.0\Pyit.deps.json
+D:\GT\DZ1\Pyit\bin\Debug\net6.0\Pyit.runtimeconfig.json
+D:\GT\DZ1\Pyit\bin\Debug\net6.0\Pyit.dll
+D:\GT\DZ1\Pyit\bin\Debug\net6.0\Pyit.pdb
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.csproj.AssemblyReference.cache
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.AssemblyInfoInputs.cache
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.AssemblyInfo.cs
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.dll
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\refint\Pyit.dll
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.pdb
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\Pyit.genruntimeconfig.cache
+D:\GT\DZ1\Pyit\obj\Debug\net6.0\ref\Pyit.dll
