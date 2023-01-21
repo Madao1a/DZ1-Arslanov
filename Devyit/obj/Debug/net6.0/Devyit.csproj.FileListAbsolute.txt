@@ -1,0 +1,15 @@
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.csproj.AssemblyReference.cache
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.AssemblyInfoInputs.cache
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.AssemblyInfo.cs
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Devyit\bin\Debug\net6.0\Devyit.exe
+D:\GT\DZ1\Devyit\bin\Debug\net6.0\Devyit.deps.json
+D:\GT\DZ1\Devyit\bin\Debug\net6.0\Devyit.runtimeconfig.json
+D:\GT\DZ1\Devyit\bin\Debug\net6.0\Devyit.dll
+D:\GT\DZ1\Devyit\bin\Debug\net6.0\Devyit.pdb
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.dll
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\refint\Devyit.dll
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.pdb
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\Devyit.genruntimeconfig.cache
+D:\GT\DZ1\Devyit\obj\Debug\net6.0\ref\Devyit.dll
