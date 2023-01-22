@@ -1,0 +1,15 @@
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.csproj.AssemblyReference.cache
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.GeneratedMSBuildEditorConfig.editorconfig
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.AssemblyInfoInputs.cache
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.AssemblyInfo.cs
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.csproj.CoreCompileInputs.cache
+D:\GT\DZ1\Deset\bin\Debug\net6.0\Deset.exe
+D:\GT\DZ1\Deset\bin\Debug\net6.0\Deset.deps.json
+D:\GT\DZ1\Deset\bin\Debug\net6.0\Deset.runtimeconfig.json
+D:\GT\DZ1\Deset\bin\Debug\net6.0\Deset.dll
+D:\GT\DZ1\Deset\bin\Debug\net6.0\Deset.pdb
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.dll
+D:\GT\DZ1\Deset\obj\Debug\net6.0\refint\Deset.dll
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.pdb
+D:\GT\DZ1\Deset\obj\Debug\net6.0\Deset.genruntimeconfig.cache
+D:\GT\DZ1\Deset\obj\Debug\net6.0\ref\Deset.dll

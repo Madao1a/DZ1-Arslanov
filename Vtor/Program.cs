@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите порядковый номер дня недели ");
+﻿//По заданному номеру дня недели вывести его название
+Console.WriteLine ("Введите порядковый номер дня недели ");
 int number = int.Parse (Console.ReadLine ());
 if (number == 1) {Console.WriteLine ("Понедельник");}
 if (number == 2) {Console.WriteLine ("Вторник");}

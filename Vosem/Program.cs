@@ -1,4 +1,5 @@
-﻿Console.WriteLine ("Введите первое число ");
+﻿//Удалить вторую цифру трёхзначного числа
+Console.WriteLine ("Введите первое число ");
 int number = int.Parse (Console.ReadLine ());
 int A = number / 100;
 int C = number % 10;
